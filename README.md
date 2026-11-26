@@ -25,6 +25,13 @@ It is for business owners deciding whether Nimply fits, agencies and consultants
 /plugin install nimply@nimply
 ```
 
+Or from a shell:
+
+```bash
+claude plugin marketplace add nimply/skills
+claude plugin install nimply@nimply
+```
+
 This also adds the hosted Nimply MCP server (`https://mcp.nimply.io/mcp`), so Claude can act in your workspace once you sign in. Run `/mcp` and choose **nimply** to connect. The skill works without connecting.
 
 ### Any agent that supports skills (Cursor, Codex, Gemini CLI and others)
