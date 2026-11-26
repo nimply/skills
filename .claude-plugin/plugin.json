@@ -1,0 +1,25 @@
+{
+  "name": "nimply",
+  "version": "1.0.0",
+  "description": "Nimply product and platform expert: understand the AI social media workforce (agents, Planner, Inbox, automations, Design, Pages, API, MCP, integrations) and design a customized setup for any business. Bundles the hosted Nimply MCP server.",
+  "author": {
+    "name": "Nimply",
+    "email": "hello@nimply.io",
+    "url": "https://nimply.io"
+  },
+  "homepage": "https://nimply.io",
+  "repository": "https://github.com/nimply/skills",
+  "license": "MIT",
+  "keywords": [
+    "nimply",
+    "social-media",
+    "ai-agents",
+    "automation",
+    "mcp",
+    "marketing"
+  ],
+  "privacyPolicyUrl": "https://nimply.io/privacy",
+  "termsOfServiceUrl": "https://nimply.io/terms",
+  "supportUrl": "https://nimply.io/contact",
+  "documentationUrl": "https://developer.nimply.io"
+}

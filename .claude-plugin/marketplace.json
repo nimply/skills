@@ -1,0 +1,17 @@
+{
+  "name": "nimply",
+  "owner": {
+    "name": "Nimply",
+    "email": "hello@nimply.io",
+    "url": "https://nimply.io"
+  },
+  "description": "Official Nimply skills: product knowledge and solution design for the AI social media workforce.",
+  "plugins": [
+    {
+      "name": "nimply",
+      "source": "./",
+      "description": "Understand Nimply and design a customized social media setup for any business. Includes the hosted Nimply MCP server.",
+      "tags": ["social-media", "ai-agents", "marketing", "mcp"]
+    }
+  ]
+}
