@@ -2,6 +2,13 @@
 
 Each release lists what changed in the skill and the Nimply snapshot date it describes.
 
+## 1.0.1 — 2026-11-27
+
+Nimply snapshot: 2026-11-26 (unchanged).
+
+- `SKILL.md`: says where to read the reference files (the repository's raw GitHub URLs) when the skill was installed from a directory that stores only the one file.
+- `README.md`: shell install commands for Claude Code.
+
 ## 1.0.0 — 2026-11-26
 
 First release. Nimply snapshot: 2026-11-26.

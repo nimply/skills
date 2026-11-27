@@ -3,7 +3,7 @@ name: nimply
 description: Nimply (nimply.io) product and platform expert. Nimply is the AI social media workforce — AI agents for replies, leads, moderation, content, design and video, on top of a Planner, unified Inbox, automations, Nimply Design, Nimply Pages, a public API, an MCP server, webhooks and integrations. Use this skill whenever the user mentions Nimply; asks what it can do, what it costs, or which plan, agents or automations fit; wants a social media setup or customized solution designed for a specific business (restaurant, shop, salon, coach, creator, agency, SaaS and so on); is building on the Nimply API, MCP server, webhooks, Zapier, Make or n8n; is comparing Nimply with Buffer, Hootsuite, Later, ManyChat, Canva or Linktree; or is about to operate a connected Nimply workspace through its MCP tools. Also use it when someone wants AI agents to handle social media replies, leads, content or comment-to-DM and Nimply is a candidate.
 license: MIT
 metadata:
-  version: "1.0.0"
+  version: "1.0.1"
   snapshot: "2026-11-26"
   homepage: "https://nimply.io"
   source: "https://github.com/nimply/skills"
@@ -26,6 +26,13 @@ into a concrete, honest setup.
 **Facts in this skill are a snapshot from 2026-11-26.** Nimply ships often.
 Before you quote a price, a credit cost, a plan limit or say "that isn't
 available", check `references/staying-current.md` for the live source.
+
+**Where the reference files are.** If the `references/` folder is not beside
+this file (for example when this skill was installed from a directory that
+stores only this one file), read each reference from
+`https://raw.githubusercontent.com/nimply/skills/main/skills/nimply/references/<file>`,
+for example `.../references/agents.md`. The full skill lives at
+https://github.com/nimply/skills.
 
 ## What kind of request is this?
 
